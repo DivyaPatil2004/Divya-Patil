@@ -1,10 +1,132 @@
-# Divya-Patil
-# 💫 About Me:
-I'm a Data Science graduate (May 2026) from R.C. Patel Institute of Technology, Shirpur<br>Passionate about Backend Development, Artificial Intelligence, Machine Learning, and Generative AI. I enjoy designing systems that go beyond basic CRUD by solving practical engineering challenges.<br><br>
+<div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6E7F80,100:8DA3A6&height=200&section=header&text=Divya%20Patil&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=Backend%20Development%20|%20AI%20/%20ML%20|%20Data%20Science&descAlignY=55&descSize=20)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/divyapatil39) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:divyapatil.rc@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-divyapatil.rc%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:divyapatil.rc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Divya_Patil-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyapatil39)
+[![GitHub](https://img.shields.io/badge/GitHub-DivyaPatil2004-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/DivyaPatil2004)
+</div>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+---
+
+## ◈ About Me
+
+I'm a Data Science graduate from R.C. Patel Institute of Technology, Shirpur — passionate about Backend
+Development, Artificial Intelligence, Machine Learning, and Generative AI. I enjoy
+designing systems that go beyond basic CRUD by solving practical engineering challenges.
+
+**🚀 What I Work With**
+
+- ☕ **Java & Spring Boot** — REST APIs, Spring Security, JPA/Hibernate
+- 🤖 **AI/ML & Generative AI** — RAG, LLMs, embeddings, OpenAI & Spring AI
+- 🧠 **Machine Learning & Computer Vision** — OpenCV, MediaPipe and ML models
+- 🗄️ **Databases** — PostgreSQL, SQL & PGVector
+- 🔐 **Authentication & Security** — OAuth 2.0, JWT & Role-Based Access Control
+- ⚙️ **Development Tools** — Git, GitHub, Maven, Docker
+
+---
+
+## ◈ Education
+
+| Degree | Institution | Duration | CGPA |
+|---|---|---|---|
+| 🎓 *B.Tech — Data Science* | *R.C. Patel Institute of Technology, Shirpur* | *Aug 2022 – May 2026* | *8.29* |
+
+---
+
+## ◈ Tech Stack & Skills
+
+**👨‍💻 Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**🧰 Backend & Frameworks**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
+
+**🤖 AI / ML**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM-412991?style=flat-square&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=flat-square)
+![Gen AI](https://img.shields.io/badge/Gen_AI-FF6F61?style=flat-square)
+
+**📊 Data & BI Tools**
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+
+**🗄️ Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**☁️ Cloud & Messaging**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+
+**🧰 Tools & Infra**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+---
+
+## ◈ Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 DevPilot
+`Java Spring Boot` · `Next.js` · `PostgreSQL + PGVector` · `OpenAI API` · `Docker`
+
+A full-stack AI-powered application that lets users sync GitHub repositories and perform
+RAG to chat with their codebase. Implements GitHub OAuth 2.0 authentication, a code-chunking
++ embeddings indexing pipeline, PGVector semantic search, and a real-time streaming chat
+interface (SSE) with Markdown rendering and citations.
+
+**→ [View Repository](https://github.com/DivyaPatil2004/DevPilot)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 MedVault — Hospital Management System
+`Java` · `Spring Boot` · `Spring Security` · `PostgreSQL` · `JWT`. `Docker`
+
+A backend-focused Hospital Management System handling patient records, doctor scheduling,
+and appointment booking. Implements concurrency-safe booking with pessimistic locking
+(verified via multi-threaded testing), JWT authentication with role-based access
+(PATIENT/DOCTOR/ADMIN), and clean global exception handling with Bean Validation.
+
+**→ [View Repository](https://github.com/DivyaPatil2004/MedVault)**
+
+</td>
+</tr>
+</table>
+
+---
+
+## ◈ Let's Connect
+
+I'm always open to backend/AI collaboration, freelance projects, or a good conversation
+about Java, Spring Boot, or Gen AI. Feel free to reach out!
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:divyapatil.rc@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyapatil39)
+[![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DivyaPatil2004)
+
+</div>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8DA3A6,100:6E7F80&height=120&section=footer)
